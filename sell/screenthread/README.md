@@ -1,0 +1,3 @@
+# ScreenThread
+Capture → Hash → Visualize
+

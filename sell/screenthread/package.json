@@ -1,0 +1,10 @@
+{
+  "name": "screenthread",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["extension","dashboard","server","shared"],
+  "scripts": {
+    "build": "echo build (configure later)",
+    "dev": "echo dev (configure later)"
+  }
+}

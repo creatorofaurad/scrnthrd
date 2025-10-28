@@ -1,0 +1,8 @@
+{
+  "name": "@screenthread/server",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.ts",
+  "scripts": { "dev": "node src/index.js", "build":"echo build server" },
+  "dependencies": { "fastify":"^4.0.0" }
+}
